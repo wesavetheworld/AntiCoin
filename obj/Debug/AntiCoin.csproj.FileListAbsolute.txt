@@ -5,3 +5,10 @@ C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownl
 C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\InstaDownloader.exe
 C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\InstaDownloader.pdb
 C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\AntiCoin.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\bin\Debug\AntiCoin.exe.config
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\bin\Debug\AntiCoin.exe
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\bin\Debug\AntiCoin.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\obj\Debug\AntiCoin.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\obj\Debug\AntiCoin.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\obj\Debug\AntiCoin.exe
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\AntiCoin\AntiCoin\obj\Debug\AntiCoin.pdb
