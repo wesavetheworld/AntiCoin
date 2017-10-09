@@ -1,0 +1,7 @@
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\bin\Debug\InstaDownloader.exe.config
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\bin\Debug\InstaDownloader.exe
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\bin\Debug\InstaDownloader.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\AntiCoin.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\InstaDownloader.exe
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\InstaDownloader.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\InstaDownloader\InstaDownloader\obj\Debug\AntiCoin.csprojResolveAssemblyReference.cache
